@@ -14,10 +14,6 @@ By employing robust agentic architecture, the accuracy of the results can be imp
 |agentic-pattern-base|llama3.2:3b-instruct-fp16, qwen3:32b|The initial notebook has been done with openaisdk. But subsquent notebooks and source will be done with LlamaStack.
 
 
-## Getting started
-### Clone the repo
-### Create venv
-
 ## To get started
 - Use python 3.12 or more
 - download this repo and cd to it
@@ -33,6 +29,7 @@ By employing robust agentic architecture, the accuracy of the results can be imp
     ```
     pip install -r requirements.txt
     ```
+- start the model as mentioned [below](#ollama)
 
 - start the notebook with the venv
     ```
